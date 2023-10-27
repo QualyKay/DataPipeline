@@ -46,7 +46,7 @@ Ingest data into a staging area then manipulate the incoming data by enforcing a
 ## Designs
 | Project Link | Project Description | 
 |---|---|
-| [Designs](https://github.com/QualyKay/Design) | Database Design Documents |
+| [Designs](https://github.com/QualyKay/Design) | Database Design Documents [Conceptual](https://github.com/QualyKay/Design/blob/4c75271b0f943a00d797bfdebeba2ea58f2d333e/Conceptual_KL%201.png) [Logical](https://github.com/QualyKay/Design/blob/main/Logical_KL%201.png) [Physical](https://github.com/QualyKay/Design/blob/main/Pyhsical_KL%201.png)|
 
 ***
   
