@@ -11,14 +11,9 @@ Ingest data into a staging area then manipulate the incoming data by enforcing a
 -	Which vendor is ranked the highest (figure out which data you can use for ranking)?
 -	What are the worst and best times to get a taxi?
 
-#### Tools
-- Python
-- Visual Studio Code
-- Terraform
-- Azure Blob Storage
-- Azure Data Factory
-- Azure Databricks
-- Power BI
+| Tools Used |
+|---|
+|- Python - Visual Studio Code - Terraform - Azure Blob Storage - Azure Data Factory - Azure Databricks - Power BI|
 
 ***
 
