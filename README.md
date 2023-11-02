@@ -15,42 +15,34 @@ Ingest data into a staging area then manipulate the incoming data by enforcing a
 |---|
 |- Python - Visual Studio Code - Terraform - Azure Blob Storage - Azure Data Factory - Azure Databricks - Power BI|
 
+![278654403-f9124762-4b9d-4561-a12a-8326afcb9a80](https://github.com/QualyKay/DataPipeline/assets/144666265/c5b82ea1-d774-4021-95fe-caeb5dfd59b6)
+
 ***
 
-  ## Contents
-- [Azure Data Factory ](#adf)
-- [Wireframe](#wireframe)
-- [Databricks](#databricks)
-- [Designs](#designs)
-- [Terraform](#terraform)
-
-
-## ADF
-| Project Link | Project Description | 
+| Task | Description | 
 |---|---|
-| [Azure DF Pipeline](https://github.com/QualyKay/ADF) | Moving raw data from a Blob Storage container using a copy activity then passing the data through two containers, refining the data until sinking it in a final third container. |
+| Azure DF Pipeline | Moving raw data from a Blob Storage container using a copy activity then passing the data through two containers, refining the data until sinking it in a final third container |
 
 ***
 
-[Wireframe](https://github.com/QualyKay/pbix)
-
-***
-
-## Databricks
-| Project Link | Project Description | 
+| Task | Description | 
 |---|---|
-| [Azure Databricks](https://github.com/QualyKay/Databricks) | Three notebooks that contain code to move and transform the data through the ADF pipeline. |
+| Azure Databricks | Three notebooks that contain code to move and transform the data through the ADF pipeline |
 
 ***
 
-## Designs
-| Project Link | Project Description | 
+| Task | Description | 
 |---|---|
-| [Designs](https://github.com/QualyKay/Design) | Database Design Documents [Conceptual](https://github.com/QualyKay/Design/blob/4c75271b0f943a00d797bfdebeba2ea58f2d333e/Conceptual_KL%201.png), [Logical](https://github.com/QualyKay/Design/blob/main/Logical_KL%201.png) and [Physical](https://github.com/QualyKay/Design/blob/main/Pyhsical_KL%201.png)|
+| Designs | Database Design Documents: Conceptual, Logical and Physical |
 
 ***
   
-## Terraform
-| Project Link | Project Description | 
+| Task | Description | 
 |---|---|
-| [Terraform](https://github.com/QualyKay/Terraform) | Using Terraform to provision 4 blob containers |
+| Terraform | Using Terraform to provision 4 blob containers |
+
+***
+  
+| Task | Description | 
+|---|---|
+| Power BI | Visual representation of information that can be derived from our final data set |
