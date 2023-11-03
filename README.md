@@ -15,7 +15,7 @@ Ingest data into a staging area then manipulate the incoming data by enforcing a
 |---|
 |- Python - Visual Studio Code - Terraform - Azure Blob Storage - Azure Data Factory - Azure Databricks - Power BI|
 
-![278654403-f9124762-4b9d-4561-a12a-8326afcb9a80](https://github.com/QualyKay/DataPipeline/assets/144666265/c5b82ea1-d774-4021-95fe-caeb5dfd59b6)
+![Screenshot 2023-10-27 122230](https://github.com/QualyKay/DataPipeline/assets/144666265/95d22ed4-2db2-43e3-a931-73ccddacbb03)
 
 ***
 
